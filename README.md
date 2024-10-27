@@ -2,6 +2,7 @@
 
 ## Overview
 The Custom Hotel Booking and Management Platform is a comprehensive web application designed to streamline hotel booking processes and management tasks. It provides users with an intuitive interface for searching, booking, and managing hotel reservations.
+Use filters then only you can book a room
 
 ## Features
 - **User Authentication**: Secure login and registration for users and admin.
